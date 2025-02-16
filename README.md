@@ -42,9 +42,25 @@ Grades:
 * 81-90: (4.5) db+
 * 91-100: (5) bdb
 
+## Project 
+
+Pick a model for adversarial analysis
+
+- Bielik
+- CLIP
+- Stable Diffusion
+  
+
 ## Presentation (0-15 points)
 
 Choose an article from the last two years published at the A* conference or another equally interesting source. Example papers
 
 - list of papers will be provided later
+
+## References
+
+- Adversarial Model Analysis https://ama.drwhy.ai/
+- Adversarial Machine Learning https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf
+- AI Security Institute https://www.aisi.gov.uk/
+
 
