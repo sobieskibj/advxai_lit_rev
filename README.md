@@ -12,7 +12,7 @@ Plan for the spring semester 2024/2025. MIM_UW classes are on Fridays.
 * 2025-03-07 -- Introduction
 * 2025-03-14 -- Security (NIST, OWASP, MITTRE + ESA) 
 * 2025-03-21 -- Security (Snowflake)
-* 2025-03-28 -- Safety (LLMs)
+* 2025-03-28 -- Safety (LLMs) Wiktoria o perswazyjności modeli
 * 2025-04-04 -- Safety (LLMs)
 * 2025-04-11 -- Adversarial attacks on models and explanations (Hubert based on the survey)
 * 2025-04-25 -- (ICLR)
