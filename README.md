@@ -14,10 +14,10 @@ Plan for the spring semester 2024/2025. MIM_UW classes are on Fridays.
 * 2025-03-21 -- Security (Snowflake)
 * 2025-03-28 -- Safety (LLMs)
 * 2025-04-04 -- Safety (LLMs)
-* 2025-04-11 -- Adversarial 
-* 2025-04-25 -- Adversarial (ICLR)
+* 2025-04-11 -- Adversarial attacks on models and explanations (Hubert based on the survey)
+* 2025-04-25 -- (ICLR)
 * 2025-05-07 -- PROJECT: **first presentation** (prerecorded videos)
-* 2025-05-16  
+* 2025-05-16 -- Adversarial analysis of prototypical models (Hubert based on "Birds look like cars")
 * 2025-05-23  
 * 2025-05-30 -- Student presentations	of research papers 
 * 2025-06-06 
