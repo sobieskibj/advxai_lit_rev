@@ -10,12 +10,12 @@ Plan for the spring semester 2024/2025. MIM_UW classes are on Fridays.
 
 * 2025-02-28 -- these classes won't happen! we will meet next week! 
 * 2025-03-07 -- Introduction
-* 2025-03-14  
-* 2025-03-21  
-* 2025-03-28  
-* 2025-04-04  
-* 2025-04-11  
-* 2025-04-25 -- (ICLR)
+* 2025-03-14 -- Security  
+* 2025-03-21 -- Security 
+* 2025-03-28 -- Safety (LLMs)
+* 2025-04-04 -- Safety (LLMs)
+* 2025-04-11 -- Adversarial 
+* 2025-04-25 -- Adversarial (ICLR)
 * 2025-05-07 -- PROJECT: **first presentation** (prerecorded videos)
 * 2025-05-16  
 * 2025-05-23  
@@ -30,7 +30,7 @@ The final grade is based on activity in four areas:
 * Project 60% (first part: 0-20, 0-40 final part)
 * Exam 15% (0-15)
 * Presentation 15% (0-15)
-* Activity 15% (0-15)
+* Activity 15% (0-15) - three small tasks (security, safety, adversarial), 5 points each
 
 In total you can get from 0 to 100 points. 51 points are needed to pass this course.
 
